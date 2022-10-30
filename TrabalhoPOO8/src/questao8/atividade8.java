@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class atividade8 {
 	public static void main(String[] args) {
-		int i,a;
+		int n,k
 		Scanner scanf=new Scanner(System.in);
 		final int li=2;
 		final int co=5;
 		double M[][]=new double [li][co];
-		for(i=0;i<li;i++) {
-			for(a=0;a<co;a++) {
+		for(n=0;<li;++) {
+			for(k=0;<co;k++) {
 			System.out.println("Informe o numero:");
-			M[i][a]=scanf.nextDouble();	
+			M[n][k]=scanf.nextDouble();	
 			
 			}
 		}
