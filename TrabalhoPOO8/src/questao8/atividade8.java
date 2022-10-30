@@ -1,12 +1,4 @@
-package questao8;
 
-import java.util.Scanner;
-
-public class atividade8 {
-	public static void main(String[] args) {
-		int n,k
-		Scanner scanf=new Scanner(System.in);
-		final int linha=2;
 		final int coluna=5;
 		double M[][]=new double [li][co];
 		for(n=0;<li;++) {
